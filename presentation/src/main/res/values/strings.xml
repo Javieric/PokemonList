@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokemon List</string>
+    <string name="no_internet_error_message">Please check your internet connection</string>
+    <string name="network_error_message">There\'s been a network error, please try again</string>
+    <string name="empty_list">The list is empty</string>
+    <string name="network_error">Network error</string>
+    <string name="server_error">Server error</string>
+    <string name="not_found">Not found</string>
+    <string name="no_internet">No internet</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="retry">Retry</string>
+    <string name="pokemon_details">Pokemon details</string>
+    <string name="height">Height: %1$s</string>
+</resources>
