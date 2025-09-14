@@ -53,4 +53,4 @@ This structure ensures scalability, readability, and easier testing.
 
 | List                  | Details                             | Error                           |
 |-------------------------------|-------------------------------------|---------------------------------|
-| ![List](screenshots/list.jpg) | ![Details](screenshots/details.png) | ![Error](screenshots/error.png) |
+| ![List](screenshots/list.png) | ![Details](screenshots/details.png) | ![Error](screenshots/error.png) |
