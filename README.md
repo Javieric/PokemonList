@@ -51,6 +51,6 @@ This structure ensures scalability, readability, and easier testing.
 - The app was built with scalability in mind, the endpoint used returns the list of Pokemon in pages of 20 items each.
 - Coil was chosen because it integrates well with Jetpack Compose and is efficient for remote images.
 
-| Pokemon List                  | Details                             | Error                           |
+| List                  | Details                             | Error                           |
 |-------------------------------|-------------------------------------|---------------------------------|
 | ![List](screenshots/list.jpg) | ![Details](screenshots/details.png) | ![Error](screenshots/error.png) |
